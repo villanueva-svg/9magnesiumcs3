@@ -1,7 +1,7 @@
 a = int(input("Enter your birth year: "))
 if a < 1900 or a > 2026:
     print("Invalid Year, it should not be earlier than 1900")
-elif a >= 1900:
+else:
     n = a - 1900
     if n%12 == 0:
         print("Your Chinese Zodiac Sign is: Rat (鼠 / Shǔ)")
