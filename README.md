@@ -9,4 +9,4 @@
 
 ## Quarter 1
 
-[Chinese Zodiac](Quarter-1/Chinese Zodiac)
+[Chinese Zodiac](Quarter-1/to/Chinese Zodiac)
