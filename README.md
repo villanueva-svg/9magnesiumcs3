@@ -9,4 +9,4 @@
 
 ## Quarter 1
 
-[Chinese Zodiac]((https://github.com/villanueva-svg/9magnesiumcs3/blob/main/Quarter-1/Chinese-Zodiac))
+[Chinese Zodiac](https://github.com/villanueva-svg/9magnesiumcs3/blob/main/Quarter-1/Chinese-Zodiac)
