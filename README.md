@@ -11,4 +11,4 @@
 
 [Chinese Zodiac](https://github.com/villanueva-svg/9magnesiumcs3/blob/main/Quarter-1/Chinese-Zodiac)
 
-[Computational Thinking: Smart Vending Machine](
+[Computational Thinking: Smart Vending Machine](https://github.com/villanueva-svg/9magnesiumcs3/blob/main/Quarter-1/Smart%20Vending%20Machine)
