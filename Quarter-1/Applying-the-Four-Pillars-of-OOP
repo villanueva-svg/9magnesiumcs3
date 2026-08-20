@@ -1,1 +1,22 @@
-# ILA 3-1
+ILA 3-1: Applying the Four Pillars of OOP
+
+Sari-Sari Store Inventory System
+
+1. Encapsulation
+
+Encapsulation can be applied by creating a Product object that contains properties such as product name, price, and stock quantity, along with methods that manage these properties. For example, methods such as addStock() and sellProduct() could change the stock instead of allowing other parts of the progra to modify it directly. This keeps related data and behaviors together and helps prevent accidental or inavlid changes to the inventory.
+
+2. Abstraction
+
+Abstractions can be used by hiding the complicated details of how inventory operations are performed and only exposing the actions that the user needs. For example, a store owner could use a sellProduct() method without needing to know how the program calculates the remaining stock. This makes the system easier to use and keeps unnecessary implementation details out of the main program.
+
+3. Inheritance
+
+Inheritance can be used by creating a general Product class and then creating more specific classes that inherit from it. For example, classes such as FoodProduct and DrinkProduct could inherit common properties such name, price, and stock from the Product class. This reduces repeated code and makes it easier to add different types of products to the inventory system.
+
+4. Polymorphism
+
+Polymorphism can allow different types of products to use the same method while performing the operation in different ways. For example, different classes could have their own version of a calculatePrice() method if certain products require different pricing rules. This allows the inventory system to work with different product types without needing completely separate code for each one
+
+Reflection:
+Among the four pillars of Object-Oriented Programming, I think encapsulation would be the most useful for improving the sari-sari store inventory system. It would keep important product information, such as prices and stock quantities, organized within each product object and allow the data to be controlled through specific methods. This could help prevent accidental changes to inventory information and make the program easier to maintain. Although the other pillars are also useful, encapsulation would provide a strong foundation for organizing the inventory system.
