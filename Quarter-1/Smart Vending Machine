@@ -1,34 +1,32 @@
-# Computational Thinking Exercise: “Smart Vending Machine”
+Computational Thinking Exercise: “Smart Vending Machine”
 
-## Step 1: Identify the Big Problem
+Step 1: Identify the Big Problem
 
-**Main Problem:**
+Main Problem:
 
 The vending machine is not functioning efficiently and reliably. It sometimes gives incorrect change, fails to notify staff when items are out of stock, dispenses the wrong item when an incorrect button is pressed, and becomes slow when many students use it in succession.
 
----
 
-## Step 2: Identify Three to Four Sub-Problems
+Step 2: Identify Three to Four Sub-Problems
 
-### 1. Incorrect Change
+1. Incorrect Change
 
 The vending machine sometimes gives the wrong amount of change after a student makes a purchase.
 
-### 2. Out-of-Stock Items
+2. Out-of-Stock Items
 
 The vending machine does not notify staff when an item runs out, causing students to select unavailable products.
 
-### 3. Incorrect Item Selection
+3. Incorrect Item Selection
 
 Students may accidentally press the wrong button and receive an item they did not intend to purchase.
 
-### 4. Slow Processing
+4. Slow Processing
 
 The vending machine becomes slow when several students use it one after another, increasing waiting time.
 
----
 
-## Step 3: Define Computational Thinking Approaches
+Step 3: Define Computational Thinking Approaches
 
 | Sub-Problem              | CT Skill                | Example Solution                                                                                                                                                      |
 | ------------------------ | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -37,11 +35,10 @@ The vending machine becomes slow when several students use it one after another,
 | Incorrect item selection | **Abstraction**         | Show the item's name, code, and price clearly and require the student to confirm their selection before the item is dispensed.                                        |
 | Slow processing          | **Decomposition**       | Divide the purchasing process into smaller steps such as selection, payment, validation, dispensing, and change-returning so each process can be handled efficiently. |
 
----
 
-## Step 4: Pseudocode
+Step 4: Pseudocode
 
-**Sub-Problem Chosen: Incorrect Change**
+Sub-Problem Chosen: Incorrect Change
 
 ```text
 START
@@ -74,6 +71,6 @@ STOP
 
 ---
 
-## Reflection / Explanation
+Reflection / Explanation
 
 Decomposition makes the vending machine problem easier to solve because the large problem can be divided into smaller and more manageable sub-problems. Each sub-problem can then be addressed using an appropriate computational thinking skill. Algorithm design can be used to calculate the correct change, pattern recognition can detect when an item is out of stock, abstraction can simplify the selection process for users, and decomposition can organize the vending machine's different operations. By applying these CT skills, the vending machine can become more accurate, reliable, and efficient.
