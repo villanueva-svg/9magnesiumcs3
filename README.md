@@ -15,4 +15,4 @@
 
 [Application of the Four Pillars of OOP](https://github.com/villanueva-svg/9magnesiumcs3/blob/main/Quarter-1/Applying-the-Four-Pillars-of-OOP)
 
-[OOPAct](https://github.com/villanueva-svg/9magnesiumcs3/blob/main/Quarter-1/OOPAct)
+[OOP Activity](https://github.com/villanueva-svg/9magnesiumcs3/blob/main/Quarter-1/OOPAct)
