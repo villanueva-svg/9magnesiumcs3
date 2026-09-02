@@ -26,7 +26,6 @@ Class Diagram
 | artist : string                      |
 | duration : double                    |
 | isFavorite : boolean                 |
-|--------------------------------------|
 | play()                               |
 | pause()                              |
 | changeVolume(amount : int)           |
