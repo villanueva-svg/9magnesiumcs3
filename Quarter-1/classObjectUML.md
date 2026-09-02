@@ -39,4 +39,4 @@ Which property is the most important? Why?
 I think the title is the most important property because it identifies the song and lets the user know what song is being played if they happen to forget what song they put in their music player.
 
 Which method is the most useful? Why?
-I think the play() method is the most useful because it's completely useless if you can't play the song.
+I think the play() method is the most useful because it's somewhat useless if you can't play the song.
