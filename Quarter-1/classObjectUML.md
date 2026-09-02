@@ -4,26 +4,22 @@ Class Description:
 The "Song" class represents a song that can be stored and managed by a music player, also containing information on what can be done to them: play, pause, and change volume.
 
 Properties
-+-----------------------------------------------------------------------------+
 | Property   | Data Type | Description                                        |
 | ---------- | --------- | -------------------------------------------------- |
 | title      | string    | The title of the song                              |
 | artist     | string    | The name of the artist                             |
 | duration   | double    | The duration of the song in seconds                |
 | isFavorite | boolean   | Indicates whether the song is marked as a favorite |
-+-----------------------------------------------------------------------------+
 
 Methods
-+-------------------------------------------------------------------------+
 | Method                     | Description                                |
 | -------------------------- | ------------------------------------------ |
 | play()                     | Plays the song                             |
 | pause()                    | Pauses the song                            |
 | changeVolume(amount : int) | Changes the volume by the specified amount |
-+-------------------------------------------------------------------------+
+
 
 Class Diagram
-+--------------------------------------+
 |                 Song                 |
 +--------------------------------------+
 | title : string                       |
@@ -34,7 +30,6 @@ Class Diagram
 | play()                               |
 | pause()                              |
 | changeVolume(amount : int)           |
-+--------------------------------------+
 
 Design Explanation:
 
