@@ -21,17 +21,16 @@ Methods
 
 Class Diagram
 
-|             Song               |
-|--------------------------------|
-| + title : string               |
-| + artist : string              |
-| + duration : string            |
-| - volume : int                 |
-| + is_playing : bool            |
-| + play()                       |
-| + pause()                      |
-| + change_volume(volume : int)  |
-| + display_info()               |
+
+|                 Song                 |
+|--------------------------------------|
+| title : string                       |
+| artist : string                      |
+| duration : double                    |
+| isFavorite : boolean                 |
+| play()                               |
+| pause()                              |
+| changeVolume(amount : int)           |
 
 Design Explanation:
 
