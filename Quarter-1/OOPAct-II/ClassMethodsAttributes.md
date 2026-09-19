@@ -9,7 +9,6 @@ Link: [classObjectUML.md](classObjectUML.md)
 Changes from my previous design:
 
 * I made the `volume` attribute private so it can be safely changed through a method.
-* I added a default volume of 50 when creating a new Song object.
 * I added the `is_playing` attribute to keep track of whether a song is playing or paused.
 
 ## Visibility Decisions
@@ -24,7 +23,7 @@ Changes from my previous design:
 
 ## Updated UML Class Diagram
 
-![Class Diagram](images/classDiagramSG5.png)
+[Class Diagram](https://github.com/villanueva-svg/9magnesiumcs3/blob/main/Quarter-1/OOPAct-II/Images/Class-DiagramSG5.png)
 
 ## Python Implementation
 
@@ -32,11 +31,11 @@ Changes from my previous design:
 
 ## Test Run
 
-![Test Run](images/classTestRun.png)
+[Test Run](https://github.com/villanueva-svg/9magnesiumcs3/tree/main/Quarter-1/OOPAct-II/Images/classTestRun)
 
 ## Object Diagram
 
-![Object Diagram](images/objectDiagram.png)
+[Object Diagram](https://github.com/villanueva-svg/9magnesiumcs3/blob/main/Quarter-1/OOPAct-II/Images/objectDiagram.png)
 
 ## Analysis
 
@@ -46,11 +45,11 @@ I made the volume attribute private because it should be changed through the `ch
 
 ### Which method changes the state of your object?
 
-The `change_volume()` method changes the state of the object by changing its private `volume` attribute. In the test, I called `song1.change_volume(75)`, which changed Song 1's volume from 50 to 75.
+The `change_volume()` method changes the state of the object by changing its private `volume` attribute. In the test, I called `song1.change_volume(75)`, which changed Song 1's volume from default to 75.
 
 ### How did your two objects demonstrate that instances are independent?
 
-The two objects were created from the same `Song` class but had different song information. When I changed Song 1's volume to 75, Song 2's volume remained at 50. This shows that each object has its own separate state.
+The two objects were created from the same `Song` class but had different song information. When I changed Song 1's volume to 75, Song 2's volume remained at default. This shows that each object has its own separate state.
 
 ### What is the difference between your class diagram and your object diagram?
 
