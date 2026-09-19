@@ -28,12 +28,12 @@ Class Diagram
 | + duration : string            |
 | - volume : int                 |
 | + is_playing : bool            |
-+--------------------------------+
+|--------------------------------|
 | + play()                       |
 | + pause()                      |
 | + change_volume(volume : int)  |
 | + display_info()               |
-+--------------------------------+
+|--------------------------------|
 
 Design Explanation:
 
