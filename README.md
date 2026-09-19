@@ -17,4 +17,4 @@
 
 [OOP Activity](https://github.com/villanueva-svg/9magnesiumcs3/blob/main/Quarter-1/classObjectUML.md)
 
-[OOP Activity no. 2](https://github.com/villanueva-svg/9magnesiumcs3/edit/main/README.md)
+[OOP Activity no. 2](https://github.com/villanueva-svg/9magnesiumcs3/tree/main/Quarter-1/OOPAct-II)
