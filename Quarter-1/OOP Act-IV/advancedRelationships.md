@@ -2,9 +2,9 @@
 
 ## Previous Activities
 
-[Part II - Class Attributes and Methods](../OOPAct-II/classAttributesMethods.md)
+[Part II - Class Attributes and Methods](https://github.com/villanueva-svg/9magnesiumcs3/tree/main/Quarter-1/OOPAct-II)
 
-[Part III - Class Relationships](../OOPAct-III/classRelationships.md)
+[Part III - Class Relationships](https://github.com/villanueva-svg/9magnesiumcs3/tree/main/Quarter-1/OOPAct-II)
 
 ## Existing System Description
 
@@ -21,7 +21,7 @@ A `LiveSong` is a type of `Song` because it has the same basic information and b
 
 ## Inheritance UML
 
-![Inheritance](images/inheritanceDiagram.png)
+[Inheritance](https://github.com/villanueva-svg/9magnesiumcs3/blob/main/Quarter-1/OOP%20Act-IV/Images/inheritanceDiagram.png)
 
 ## Composition/Aggregation
 
@@ -32,19 +32,19 @@ The `Playlist` class aggregates `Song` objects because the songs can exist indep
 
 ## Advanced UML Diagram
 
-![Advanced UML](images/advancedClassDiagram.png)
+[Advanced UML](https://github.com/villanueva-svg/9magnesiumcs3/blob/main/Quarter-1/OOP%20Act-IV/Images/advancedClassDiagram.png)
 
 ## Python Implementation
 
-[Source Code](advancedRelationships.py)
+[Source Code](https://github.com/villanueva-svg/9magnesiumcs3/blob/main/Quarter-1/OOP%20Act-IV/advancedRelationships.py)
 
 ## Test Run
 
-[Test](images/advancedTestRun.png)
+[Test](https://github.com/villanueva-svg/9magnesiumcs3/blob/main/Quarter-1/OOP%20Act-IV/Images/advancedTestRun.png)
 
 ## Object Diagram
 
-[Objects](images/advancedObjectDiagram.png)
+[Objects](https://github.com/villanueva-svg/9magnesiumcs3/blob/main/Quarter-1/OOP%20Act-IV/Images/advancedObjectDiagram.png)
 
 ## Reflection
 
