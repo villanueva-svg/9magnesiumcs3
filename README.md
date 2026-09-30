@@ -15,6 +15,8 @@
 
 [Application of the Four Pillars of OOP](https://github.com/villanueva-svg/9magnesiumcs3/blob/main/Quarter-1/Applying-the-Four-Pillars-of-OOP)
 
-[OOP Activity](https://github.com/villanueva-svg/9magnesiumcs3/blob/main/Quarter-1/classObjectUML.md)
+[OOP Act I](https://github.com/villanueva-svg/9magnesiumcs3/blob/main/Quarter-1/classObjectUML.md)
 
-[OOP Activity no. 2](https://github.com/villanueva-svg/9magnesiumcs3/tree/main/Quarter-1/OOPAct-II)
+[OOP Act II](https://github.com/villanueva-svg/9magnesiumcs3/tree/main/Quarter-1/OOPAct-II)
+
+[OOP Act III]()
