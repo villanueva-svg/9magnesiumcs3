@@ -1,19 +1,38 @@
+                         +------------------------------+
+                         |             Song             |
+                         +------------------------------+
+                         | + title : string             |
+                         | + artist : string            |
+                         | + duration : string          |
+                         | - volume : int               |
+                         | + is_playing : bool          |
+                         +------------------------------+
+                                      △
+                                      |
+                                      |
+                         +------------------------------+
+                         |          LiveSong            |
+                         +------------------------------+
+                         | + venue : string             |
+                         +------------------------------+
+                         | + display_live_info()        |
+                         +------------------------------+
+
+
 +------------------------------+
-|             Song             |
-|------------------------------|
-| + title : string             |
-| + artist : string            |
-| + duration : string          |
-| - volume : int               |
-| + is_playing : bool          |
-| + play()                     |
-| + pause()                    |
-| + change_volume(volume:int)  |
-| + display_info()             |
-              △
-              |
-              |
-|          LiveSong            |
-|------------------------------|
-| + venue : string             |
-| + display_live_info()        |
+|           Playlist           |
++------------------------------+
+| + name : string              |
+| - songs : list               |
++------------------------------+
+| + add_song(song)             |
+| + display_songs()            |
++------------------------------+
+             ◇
+             |
+          contains
+             |
+            0..*
+             |
+             v
+           Song
