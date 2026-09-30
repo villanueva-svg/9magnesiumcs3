@@ -2,9 +2,9 @@
 
 ## Previous Work
 
-[Part I - Classes and Objects](classObjectUML.md)
+[Part I - Classes and Objects](https://github.com/villanueva-svg/9magnesiumcs3/tree/main/Quarter-1/OOP%20Act-I)
 
-[Part II - Class Attributes and Methods](classAttributesMethods.md)
+[Part II - Class Attributes and Methods](https://github.com/villanueva-svg/9magnesiumcs3/tree/main/Quarter-1/OOPAct-II)
 
 ## Existing Class
 
@@ -36,19 +36,19 @@ One Playlist can contain zero or more Song objects. This multiplicity fits becau
 
 ## UML Class Relationship Diagram
 
-[Class Relationship Diagram](images/classRelationshipDiagram.png)
+[Class Relationship Diagram](https://github.com/villanueva-svg/9magnesiumcs3/blob/main/Quarter-1/OOP%20Act-III/Images/classRelationshipDiagram.png)
 
 ## Python Implementation
 
-[View Python Source](classRelationships.py)
+[View Python Source](https://github.com/villanueva-svg/9magnesiumcs3/blob/main/Quarter-1/OOP%20Act-III/ClassRelationships.py)
 
 ## Test Run
 
-[Relationship Test Run](images/relationshipTestRun.png)
+[Relationship Test Run](https://github.com/villanueva-svg/9magnesiumcs3/blob/main/Quarter-1/OOP%20Act-III/Images/relationshipTestRun.png)
 
 ## Object Relationship Diagram
 
-[Object Relationship Diagram](images/objectRelationshipDiagram.png)
+[Object Relationship Diagram](https://github.com/villanueva-svg/9magnesiumcs3/blob/main/Quarter-1/OOP%20Act-III/Images/objectRelationshipDiagram.png)
 
 ## Analysis
 
