@@ -25,4 +25,4 @@
 
 ## Quarter 2
 
-[sg8_encapsulation.py](https://github.com/villanueva-svg/9magnesiumcs3/tree/main/Quarter-2/Activity%201)
+[SG8_Encapsulation.py](https://github.com/villanueva-svg/9magnesiumcs3/tree/main/Quarter-2/Activity%201)
