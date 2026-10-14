@@ -22,3 +22,7 @@
 [OOP Act III](https://github.com/villanueva-svg/9magnesiumcs3/tree/main/Quarter-1/OOP%20Act-III)
 
 [OOP Act IV](https://github.com/villanueva-svg/9magnesiumcs3/tree/main/Quarter-1/OOP%20Act-IV)
+
+## Quarter 2
+
+[sg8_encapsulation.py]()
