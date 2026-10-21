@@ -1,4 +1,4 @@
-Class Magazine:
+class Magazine:
     def __init__(self, title="", author="", issue_number=0):
         self.__title = title #Privated Attribute
         self.__author = author #Privated Attribute
@@ -14,7 +14,7 @@ Class Magazine:
         else:
             print("Issue number must be a non-negative integer.")
     
-Class Book:
+class Book:
     def __init__(self, title="", author="", no_of_pages=0):
         self.__title = title #Privated Attribute
         self.__author = author #Privated Attribute
@@ -31,7 +31,7 @@ Class Book:
         else:
             print("Number of pages must be a non-negative integer.")
 
-Class Publication:
+class Publication:
     def __init__(self, title="", author=""):
         self.__title = title #Privated Attribute
         self.__author = author #Privated Attribute
